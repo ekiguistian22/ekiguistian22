@@ -1,6 +1,3 @@
-<!-- Profile README by ekiguistian22 -->
-
-<!-- Typing SVG Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Guys!+I'm+Eki+Guistian;Sysadmin+%7C+DevOps+Engineer+%7C+Network+Enthusiast;Automating+Servers+%26+Workflows;Passionate+About+Linux+%26+Cloud" alt="Typing Animation" />
 </p>
@@ -55,6 +52,18 @@
 
 ---
 
+## 🧩 Skills
+
+- **Networking & Infrastructure** : Network Engineer, FTTH / FTTX, Internet, Network Infrastructure  
+- **System Administration** : Linux, Monitoring Server, Mail Server (Postfix, Roundcube)  
+- **DevOps / Cloud** : Cloud Engineer, Automation, CI/CD, Docker, Kubernetes, Ansible, Terraform, AWS  
+- **Web Development** : PHP, HTML, CSS, JavaScript, Bootstrap, WordPress  
+- **Database** : MySQL, PostgreSQL  
+- **Software Development** : Android, Custom System Development  
+- **Others** : Security Hardening, Documentation, Problem Solving  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,6 +94,9 @@
   </a>
   <a href="mailto:ekiguistian@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://paypal.me/ekiguistian22" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
