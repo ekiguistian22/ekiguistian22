@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm Eki Guistian  
+# 👋 Hi, I'm Eki Guistian  - Kaum Rebah - Rebah, Tumbang
 
 ⚡ **Sysadmin | 🚀 DevOps | 🌐 Network Enthusiast**  
 
@@ -44,6 +44,11 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
+**Networking & Vendors**  
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ZTE](https://img.shields.io/badge/ZTE-1C64F2?style=for-the-badge&logo=zte&logoColor=white)
+
 **Scripting & Tools**  
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +59,7 @@
 
 ## 🧩 Skills
 
-- **Networking & Infrastructure** : Network Engineer, FTTH / FTTX, Internet, Network Infrastructure  
+- **Networking & Infrastructure** : Mikrotik, Cisco, ZTE, FTTH / FTTX, Internet, Network Infrastructure  
 - **System Administration** : Linux, Monitoring Server, Mail Server (Postfix, Roundcube)  
 - **DevOps / Cloud** : Cloud Engineer, Automation, CI/CD, Docker, Kubernetes, Ansible, Terraform, AWS  
 - **Web Development** : PHP, HTML, CSS, JavaScript, Bootstrap, WordPress  
@@ -89,7 +94,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/ekiguistian22" target="_blank">
+  <a href="https://linkedin.com/in/ekiguistian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ekiguistian@gmail.com" target="_blank">
